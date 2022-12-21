@@ -1,2 +1,2 @@
 # gogoRun
-A minimal 3D game that I'm trying to make.
+A minimal <b>3D game</b> project that I'm trying to make.
